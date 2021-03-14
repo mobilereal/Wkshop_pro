@@ -1,7 +1,7 @@
 from typing import Optional, List
 from pydantic import BaseModel, Field
 
-#Insert ต้องใส่ให้ครบนะจ๊ะ
+#TODO: Insert ต้องใส่ให้ครบนะจ๊ะ
 class createBakeryModel(BaseModel):
     id: str = Field(min_length=10, max_length=10)
     menu_name: str
@@ -10,7 +10,7 @@ class createBakeryModel(BaseModel):
     piece: int
     picture_url : str
 
-#อัพเดทเฉพาะฟีลอันควรใช้patch ถ้าใช้pushต้องอัพเดททั้งก้อน
+#TODO: อัพเดท (ถ้าเฉพาะฟิล ควรใช้patch ถ้าใช้pushต้องอัพเดททั้งก้อน)
 class updateBakeryModel(BaseModel):
     menu_name: Optional[str]
     menu_type: Optional[str]

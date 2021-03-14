@@ -1,0 +1,16 @@
+version: "3.5"
+services:
+  mongo:
+    container_name: wkshop_pro
+    image: mongo:4.0
+    ports:
+      - 27017:27017
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=root
+      - MONGO_INITDB_ROOT_PASSWORD=root
+      - MONGO_INITDB_DATABASE=bakerypj
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "50m"
+        max-file: "10"

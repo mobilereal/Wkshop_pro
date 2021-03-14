@@ -281,7 +281,7 @@
 					"raw": "var jsonData = pm.response.json();\n\npm.test(\"should have key mongo_id\", function () {\n    pm.expect(jsonData.data).to.have.property('bakery_id');\n})\n\npm.test(\"should have key modified_count\", function () {\n    pm.expect(jsonData.data).to.have.property('deleted_count');\n})"
 				},
 				"url": {
-					"raw": "{{apiUrl}}/bakerys/1000000001",
+					"raw": "{{apiUrl}}/bakerys/1000000010",
 					"host": [
 						"{{apiUrl}}"
 					],

@@ -1,0 +1,110 @@
+{
+    "_id" : "1000000001",
+    "id" : "1000000001",
+    "menu_name" : "strawberry macaron",
+    "menu_type" : "cookie",
+    "price" : 40.0,
+    "piece" : 2,
+    "picture_url" : "https://ducdepraslin.co.th/wp-content/uploads/2017/12/macaron-rose-1.jpg"
+}
+
+
+{
+    "_id" : "1000000002",
+    "id" : "1000000002",
+    "menu_name" : "choco macaron",
+    "menu_type" : "cookie",
+    "price" : 35.0,
+    "piece" : 3,
+    "picture_url" : "https://ducdepraslin.co.th/wp-content/uploads/2017/12/macaron-chocolate-1.jpg"
+}
+
+{
+    "_id" : "1000000003",
+    "id" : "1000000003",
+    "menu_name" : "banoffee tart",
+    "menu_type" : "tart",
+    "price" : 50.0,
+    "piece" : 2,
+    "picture_url" : "https://spoonwholesalekitchen.com.au/wp-content/uploads/2020/03/Banoffee-Tart-PI26.jpg"
+}
+
+
+{
+    "_id" : "1000000004",
+    "id" : "1000000004",
+    "menu_name" : "egg tart",
+    "menu_type" : "tart",
+    "price" : 50.0,
+    "piece" : 2,
+    "picture_url" : "https://www.misstamchiak.com/wp-content/uploads/2016/01/DSCF5920-1300x867.jpg"
+}
+
+
+{
+    "_id" : "1000000005",
+    "id" : "1000000005",
+    "menu_name" : "apple tart",
+    "menu_type" : "tart",
+    "price" : 50.0,
+    "piece" : 2,
+    "picture_url" : "https://img.wongnai.com/p/1920x0/2019/06/01/b81ec8b285d14948a79e55dfe7815276.jpg"
+}
+
+
+{
+    "_id" : "1000000006",
+    "id" : "1000000006",
+    "menu_name" : "almond brownie",
+    "menu_type" : "brownie",
+    "price" : 35.0,
+    "piece" : 3,
+    "picture_url" : "https://img.wongnai.com/p/1920x0/2019/06/01/b81ec8b285d14948a79e55dfe7815276.jpg"
+}
+
+
+{
+    "_id" : "1000000007",
+    "id" : "1000000007",
+    "menu_name" : "marshmallow brownie",
+    "menu_type" : "brownie",
+    "price" : 30.0,
+    "piece" : 2,
+    "picture_url" : "https://cookiesandcups.com/wp-content/uploads/2020/06/marshmallowbrownies-5.jpg"
+}
+
+
+
+{
+    "_id" : "1000000008",
+    "id" : "1000000008",
+    "menu_name" : "honey lemon macaron",
+    "menu_type" : "cookie",
+    "price" : 40.0,
+    "piece" : 2,
+    "picture_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_rH_HT8EI5U-SsKkwNh-5AVKDl2iMH-p7A&usqp=CAU"
+}
+
+
+
+{
+    "_id" : "1000000009",
+    "id" : "1000000009",
+    "menu_name" : "melon macaron",
+    "menu_type" : "cookie",
+    "price" : 40.0,
+    "piece" : 2,
+    "picture_url" : "https://cooking-chef.sa.metacdn.com/sites/default/files/styles/recipe_visuel_node/public/recettes/macaron_melon.jpg?itok=4zZ_kWQA"
+}
+
+
+
+{
+    "_id" : "1000000010",
+    "id" : "1000000010",
+    "menu_name" : "raspberry macaron",
+    "menu_type" : "cookie",
+    "price" : 40.0,
+    "piece" : 2,
+    "picture_url" : "https://houseofnasheats.com/wp-content/uploads/2020/03/Raspberry-Macarons-11.jpg"
+}
